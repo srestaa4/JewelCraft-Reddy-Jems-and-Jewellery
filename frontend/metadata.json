@@ -1,0 +1,6 @@
+{
+  "name": "JewelCraft – REDDY JEMS AND JEWELLERY",
+  "description": "Personalized Jewellery Design & Showroom Appointment Platform. Customize fine rings, necklaces, earrings, metals and certified diamonds, estimate pricing, and book private showroom consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
